@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcddd104-52af-4b6e-bdca-47d5cc0d93b0" name="Changes" comment="" />
+    <list default="true" id="dcddd104-52af-4b6e-bdca-47d5cc0d93b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/Skulkmod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/Skulkmod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/BlockChangeTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/BlockHistoryData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/CommandInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/SculkCatalistFarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/SculkRepairEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/SculkRepairEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/event/WorldBlockHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/item/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkulkMod/skulkmod/item/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/ancient_city.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/ancient_city.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +64,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-6dd721cd7d/1.21.11-net.fabricmc.yarn.1_21_11.1.21.11+build.4-v2/minecraft-common-6dd721cd7d-1.21.11-net.fabricmc.yarn.1_21_11.1.21.11+build.4-v2.jar!/data/minecraft/tags/item/enchantable/durability.json" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -63,19 +77,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Minecraft Client.executor": "Debug",
-    "Gradle.Build untitled.executor": "Run",
-    "Gradle.untitled [build].executor": "Debug",
-    "Gradle.untitled [publish].executor": "Run",
-    "Gradle.untitled [wrapper].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/untitled",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Minecraft Client.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.Build untitled.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled [build].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.untitled [publish].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.untitled [wrapper].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/untitled&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SkulkMod.skulkmod.event" />

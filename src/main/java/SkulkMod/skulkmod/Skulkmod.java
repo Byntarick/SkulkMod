@@ -23,14 +23,5 @@ public class Skulkmod implements ModInitializer {
         ModItems.registerModItems();
         ModGroups.registerItemGroups();
         SculkRepairEvent.register();
-        SculkCatalistFarm.register();
-
-        BlockChangeTracker.register();
-CommandInfo.register();
-
-
-
     }
-
-
 }

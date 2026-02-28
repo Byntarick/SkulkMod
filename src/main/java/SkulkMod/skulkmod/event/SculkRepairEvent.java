@@ -56,7 +56,7 @@ public class SculkRepairEvent {
                     if (stack.isEmpty()) continue;
                 if (stack.isDamageable() && isSculk(stack)) {
                     int damage = stack.getDamage();
-                    if (damage > 0) stack.setDamage(damage - (count/4));
+                    if (damage > 0) stack.setDamage(damage - (count/8));
                 }
             }
         }
@@ -69,7 +69,7 @@ public class SculkRepairEvent {
     private static boolean isSculk(ItemStack stack){
         if (stack.isOf(ModItems.SCULK_PICKAXE) || stack.isOf(ModItems.SCULK_HOE) || stack.isOf(ModItems.SCULK_AXE)|| stack.isOf(ModItems.SCULK_SHOVEL)
                 || stack.isOf(ModItems.SCULK_SWORD) || stack.isOf(ModItems.SCULK_BOOTS)|| stack.isOf(ModItems.SCULK_CHESTPLATE)
-                || stack.isOf(ModItems.SCULK_HELMET) || stack.isOf(ModItems.SCULK_LEGGINGS) || stack.isOf(ModItems.SCULK_ELYTRA)
+                || stack.isOf(ModItems.SCULK_HELMET) || stack.isOf(ModItems.SCULK_LEGGINGS) || stack.isOf(ModItems.SCULK_ELYTRA) || stack.isOf(ModItems.SCULK_SPEAR)
         ){
             return true;
         } else return false;
