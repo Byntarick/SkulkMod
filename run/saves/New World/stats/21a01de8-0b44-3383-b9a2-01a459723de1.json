@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 512,
+      "minecraft:walk_one_cm": 464,
+      "minecraft:total_world_time": 607,
+      "minecraft:play_time": 512,
+      "minecraft:time_since_death": 512
+    },
+    "minecraft:picked_up": {
+      "skulkmod:sculk_elytra": 1,
+      "skulkmod:sculk_leggings": 1,
+      "skulkmod:sculk_pickaxe": 1,
+      "minecraft:rotten_flesh": 2
+    }
+  },
+  "DataVersion": 4671
+}

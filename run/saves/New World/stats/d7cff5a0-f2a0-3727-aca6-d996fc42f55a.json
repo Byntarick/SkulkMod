@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 6,
+      "skulkmod:sculk_pickaxe": 6
+    },
+    "minecraft:mined": {
+      "minecraft:stone": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 268,
+      "minecraft:walk_one_cm": 252,
+      "minecraft:total_world_time": 318,
+      "minecraft:play_time": 268,
+      "minecraft:time_since_death": 268
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 3
+    }
+  },
+  "DataVersion": 4671
+}

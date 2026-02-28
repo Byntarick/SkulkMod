@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 309,
+      "minecraft:time_since_rest": 2623,
+      "minecraft:walk_one_cm": 1057,
+      "minecraft:total_world_time": 2623,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 390,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 2623,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 2623
+    },
+    "minecraft:mined": {
+      "minecraft:grass_block": 8
+    },
+    "minecraft:used": {
+      "skulkmod:sculk_hoe": 8
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 8
+    }
+  },
+  "DataVersion": 4671
+}

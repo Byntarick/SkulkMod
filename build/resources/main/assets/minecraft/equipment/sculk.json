@@ -1,0 +1,24 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "skulkmod:sculk"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "skulkmod:sculk"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "skulkmod:sculk"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "skulkmod:sculk"
+      }
+    ]
+  }
+}

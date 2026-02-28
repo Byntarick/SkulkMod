@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 152,
+      "minecraft:total_world_time": 299,
+      "minecraft:play_time": 152,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 152
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 3
+    }
+  },
+  "DataVersion": 4671
+}

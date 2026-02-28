@@ -1,0 +1,50 @@
+/give Player345 skulkmod:sculk_spear
+/give Player345 skulkmod:sculk_sword
+/give Player189 skulkmod:sculk_elytra
+/give Player303 skulkmod:sculk_elytra
+/give @a skulkmod:sculk_elytra[minecraft:damage=1000
+/give @a skulkmod:sculk_elytra[minecraft:damage=1000]
+/give @a skulkmod:sculk_helmet
+/give @a skulkmod:sculk_leggings
+/give @a skulkmod:sculk_leggings[minecraft:damage=1000]
+/give @a skulkmod:sculk_elytra[minecraft:damage=1000]
+/give @a skulkmod:sculk_elytra
+/give @a skulkmod:sculk_horse_armor
+/give @a skulkmod:sculk_hoe
+/give @a skulkmod:sculk_bread
+/effect give @a minecraft:hunger 100 100
+/blockinfo history 9 -60 24
+/blockinfo save
+/blockinfo history 9 -60 24
+/blockinfo save
+/blockinfo history 9 -60 24
+/tp 9 -60 24
+/blockinfo history 9 -60 24
+/give @a skulkmod:sculk_pickaxe
+/give @a skulkmod:sculk_shield
+/time set day
+/give @a skulkmod:sculk_bread
+/give @a skulkmod:sculk_helmet
+/give @a skulkmod:sculk_chestplate
+/give @a skulkmod:sculk_boots
+/
+/give @a skulkmod:sculk_nautilus_armor
+/tag @a add sculk_armor
+/tags
+/time set midnight
+/time set day
+/time set noon
+/time set 200
+/time set 2
+/time set 2000
+/time set 5000
+/time set 10000
+/time set 12000
+/time set day
+/give @a minecraft:barrier
+/weather clear
+/time set day
+/locate structure minecraft:ancient_city
+/tp @s -1520 ~ 1264
+/effect give @a minecraft:night_vision
+/effect give @a minecraft:night_vision infinite

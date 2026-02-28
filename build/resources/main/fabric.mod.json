@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "skulkmod",
+  "version": "1.0",
+  "name": "SkulkMod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/skulkmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "SkulkMod.skulkmod.client.SkulkmodDataGenerator"
+    ],
+    "client": [
+      "SkulkMod.skulkmod.client.SkulkmodClient"
+    ],
+    "main": [
+      "SkulkMod.skulkmod.Skulkmod"
+    ]
+  },
+  "mixins": [
+    "skulkmod.mixins.json",
+    {
+      "config": "skulkmod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}

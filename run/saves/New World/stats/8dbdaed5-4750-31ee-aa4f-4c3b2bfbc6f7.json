@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:smithing_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_smithing_table": 3,
+      "minecraft:time_since_rest": 1819,
+      "minecraft:total_world_time": 1819,
+      "minecraft:play_time": 1819,
+      "minecraft:time_since_death": 1819
+    }
+  },
+  "DataVersion": 4671
+}

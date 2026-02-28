@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:smithing_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3102,
+      "minecraft:walk_one_cm": 4562,
+      "minecraft:damage_taken": 200,
+      "minecraft:play_time": 3102,
+      "minecraft:jump": 48,
+      "minecraft:time_since_death": 3102,
+      "minecraft:aviate_one_cm": 8594,
+      "minecraft:sprint_one_cm": 5131,
+      "minecraft:interact_with_smithing_table": 1,
+      "minecraft:fall_one_cm": 2785,
+      "minecraft:total_world_time": 6223,
+      "minecraft:fly_one_cm": 15672,
+      "minecraft:walk_on_water_one_cm": 151
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:anvil": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:saddle": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:saddle": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1452,
+      "minecraft:walk_one_cm": 604,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1452,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 1452,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 799,
+      "minecraft:total_world_time": 1566,
+      "minecraft:fly_one_cm": 3524,
+      "minecraft:interact_with_anvil": 2,
+      "minecraft:walk_on_water_one_cm": 90,
+      "minecraft:sneak_time": 1
+    }
+  },
+  "DataVersion": 4671
+}

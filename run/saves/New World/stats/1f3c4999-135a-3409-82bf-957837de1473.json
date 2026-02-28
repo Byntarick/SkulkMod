@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:netherite_horse_armor": 1,
+      "minecraft:netherite_nautilus_armor": 1,
+      "minecraft:dirt": 8
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1661,
+      "minecraft:walk_one_cm": 172,
+      "minecraft:total_world_time": 1682,
+      "minecraft:leave_game": 1,
+      "minecraft:interact_with_anvil": 7,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 1661,
+      "minecraft:time_since_death": 1661,
+      "minecraft:drop": 3
+    }
+  },
+  "DataVersion": 4671
+}

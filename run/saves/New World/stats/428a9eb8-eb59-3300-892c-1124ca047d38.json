@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 438,
+      "minecraft:walk_one_cm": 242,
+      "minecraft:total_world_time": 504,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:play_time": 438,
+      "minecraft:time_since_death": 438
+    },
+    "minecraft:picked_up": {
+      "minecraft:enchanted_book": 1,
+      "skulkmod:sculk_sword": 1
+    }
+  },
+  "DataVersion": 4671
+}

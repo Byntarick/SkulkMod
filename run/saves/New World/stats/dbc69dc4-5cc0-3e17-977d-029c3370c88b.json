@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2398,
+      "minecraft:walk_one_cm": 193,
+      "minecraft:total_world_time": 3484,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 2398,
+      "minecraft:time_since_death": 2398
+    },
+    "minecraft:used": {
+      "skulkmod:sculk_shield": 2
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": "#minecraft:trim_materials",
+  "base": "#skulkmod:sculk_armor",
+  "pattern": "minecraft:host",
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:slime_ball": 11
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 26
+    },
+    "minecraft:used": {
+      "minecraft:zombie_spawn_egg": 1,
+      "skulkmod:sculk_sword": 7,
+      "skulkmod:sculk_axe": 18,
+      "skulkmod:sculk_pickaxe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 45,
+      "minecraft:time_since_rest": 2892,
+      "minecraft:walk_one_cm": 6547,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 26,
+      "minecraft:damage_taken": 20,
+      "minecraft:play_time": 2892,
+      "minecraft:damage_dealt": 560,
+      "minecraft:damage_absorbed": 160,
+      "minecraft:jump": 33,
+      "minecraft:time_since_death": 2892,
+      "minecraft:sprint_one_cm": 1469,
+      "minecraft:total_world_time": 2892,
+      "minecraft:fly_one_cm": 3231
+    }
+  },
+  "DataVersion": 4671
+}

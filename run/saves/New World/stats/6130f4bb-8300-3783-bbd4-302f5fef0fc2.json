@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "skulkmod:sculk_boots": 1,
+      "minecraft:dune_armor_trim_smithing_template": 1,
+      "minecraft:redstone": 64
+    },
+    "minecraft:used": {
+      "skulkmod:sculk_chestplate": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_smithing_table": 2,
+      "minecraft:time_since_rest": 836,
+      "minecraft:total_world_time": 836,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 836,
+      "minecraft:time_since_death": 836
+    },
+    "minecraft:crafted": {
+      "minecraft:air": 0
+    }
+  },
+  "DataVersion": 4671
+}

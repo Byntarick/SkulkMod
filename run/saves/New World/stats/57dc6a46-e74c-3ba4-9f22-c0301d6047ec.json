@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 677,
+      "minecraft:walk_one_cm": 368,
+      "minecraft:total_world_time": 677,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 677,
+      "minecraft:time_since_death": 677,
+      "minecraft:drop": 1
+    },
+    "minecraft:dropped": {
+      "skulkmod:skulk_shablon": 1
+    },
+    "minecraft:picked_up": {
+      "skulkmod:skulk_shablon": 1
+    }
+  },
+  "DataVersion": 4671
+}

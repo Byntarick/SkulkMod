@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "skulkmod:sculk_shield": 103
+    },
+    "minecraft:broken": {
+      "skulkmod:sculk_leggings": 1
+    },
+    "minecraft:custom": {
+      "minecraft:damage_blocked_by_shield": 480,
+      "minecraft:time_since_rest": 586,
+      "minecraft:walk_one_cm": 2055,
+      "minecraft:total_world_time": 606,
+      "minecraft:damage_taken": 42,
+      "minecraft:play_time": 586,
+      "minecraft:damage_dealt": 60,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 586
+    }
+  },
+  "DataVersion": 4671
+}

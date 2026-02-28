@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:obsidian": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 541,
+      "minecraft:walk_one_cm": 320,
+      "minecraft:total_world_time": 557,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 541,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 541,
+      "minecraft:drop": 1
+    },
+    "minecraft:picked_up": {
+      "skulkmod:sculk_helmet": 1
+    },
+    "minecraft:dropped": {
+      "skulkmod:sculk_helmet": 1
+    }
+  },
+  "DataVersion": 4671
+}

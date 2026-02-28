@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:sculk_catalyst": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 612,
+      "minecraft:walk_one_cm": 84,
+      "minecraft:total_world_time": 1962,
+      "minecraft:play_time": 612,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 612
+    }
+  },
+  "DataVersion": 4671
+}

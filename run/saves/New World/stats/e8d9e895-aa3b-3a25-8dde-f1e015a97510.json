@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "skulkmod:skulk_shablon": 2
+    },
+    "minecraft:picked_up": {
+      "skulkmod:skulk_shablon": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 520,
+      "minecraft:walk_one_cm": 916,
+      "minecraft:total_world_time": 558,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 520,
+      "minecraft:time_since_death": 520,
+      "minecraft:drop": 2
+    }
+  },
+  "DataVersion": 4671
+}

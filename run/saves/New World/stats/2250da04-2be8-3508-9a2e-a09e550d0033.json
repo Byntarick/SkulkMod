@@ -1,0 +1,51 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:netherite_hoe": 1,
+      "minecraft:netherite_axe": 2,
+      "minecraft:netherite_shovel": 1,
+      "minecraft:netherite_pickaxe": 1,
+      "minecraft:netherite_spear": 1,
+      "minecraft:shield": 1,
+      "minecraft:netherite_horse_armor": 1,
+      "minecraft:netherite_boots": 1,
+      "minecraft:netherite_nautilus_armor": 1,
+      "minecraft:netherite_sword": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_smithing_table": 2,
+      "minecraft:time_since_rest": 2234,
+      "minecraft:walk_one_cm": 664,
+      "minecraft:total_world_time": 2281,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 2234,
+      "minecraft:time_since_death": 2234,
+      "minecraft:drop": 20
+    },
+    "minecraft:dropped": {
+      "minecraft:netherite_pickaxe": 1,
+      "minecraft:netherite_spear": 1,
+      "minecraft:netherite_shovel": 1,
+      "skulkmod:sculk_nautilus_armor": 1,
+      "minecraft:redstone": 63,
+      "minecraft:netherite_sword": 1,
+      "minecraft:grass_block": 1,
+      "skulkmod:sculk_leggings": 1,
+      "minecraft:anvil": 66,
+      "skulkmod:sculk_hoe": 1,
+      "minecraft:netherite_axe": 2,
+      "minecraft:fishing_rod": 1,
+      "skulkmod:sculk_elytra": 1,
+      "minecraft:netherite_horse_armor": 1,
+      "minecraft:netherite_boots": 1,
+      "minecraft:shield": 1,
+      "minecraft:netherite_nautilus_armor": 1,
+      "minecraft:netherite_hoe": 1
+    },
+    "minecraft:crafted": {
+      "skulkmod:sculk_nautilus_armor": 1,
+      "minecraft:air": 0
+    }
+  },
+  "DataVersion": 4671
+}

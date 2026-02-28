@@ -1,0 +1,19 @@
+{
+  "item.skulkmod.sculk_template": "Скалковый шаблон улучшения",
+  "item.skulkmod.sculk_pickaxe": "Скалковая кирка",
+  "item.skulkmod.sculk_axe": "Скалковый топор",
+  "item.skulkmod.sculk_hoe": "Скалковая мотыга",
+  "item.skulkmod.sculk_spear": "Скалковое копьё",
+  "item.skulkmod.sculk_sword": "Скалковый меч",
+  "item.skulkmod.sculk_shovel": "Скалковая лопата",
+  "item.skulkmod.sculk_horse_armor": "Скалковая конская броня",
+  "item.skulkmod.sculk_nautilus_armor": "Скалковая броня наутилуса",
+  "item.skulkmod.sculk_bread": "Скалковый хлеб",
+  "item.skulkmod.sculk_elytra": "Скалковые элитры",
+  "item.skulkmod.sculk_shield": "Скалковый щит",
+  "item.skulkmod.sculk_helmet": "Скалковый шлем",
+  "item.skulkmod.sculk_leggings": "Скалковые поножи",
+  "item.skulkmod.sculk_chestplate": "Скалковый нагрудник",
+  "item.skulkmod.sculk_boots": "Скалковые ботинки",
+  "itemGroup.skulkmod": "Скалк Мод"
+}

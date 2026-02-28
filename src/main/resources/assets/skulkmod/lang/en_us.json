@@ -1,0 +1,19 @@
+{
+  "item.skulkmod.sculk_template": "Sculk Upgrade Template",
+  "item.skulkmod.sculk_pickaxe": "Sculk Pickaxe",
+"item.skulkmod.sculk_axe": "Sculk Axe",
+  "item.skulkmod.sculk_hoe": "Sculk Hoe",
+  "item.skulkmod.sculk_spear": "Sculk Spear",
+  "item.skulkmod.sculk_sword": "Sculk Sword",
+  "item.skulkmod.sculk_shovel": "Sculk Shovel",
+  "item.skulkmod.sculk_horse_armor": "Sculk Horse Armor",
+  "item.skulkmod.sculk_nautilus_armor": "Sculk Nautilus Armor",
+  "item.skulkmod.sculk_bread": "Sculk Bread",
+  "item.skulkmod.sculk_elytra": "Sculk Elytra",
+  "item.skulkmod.sculk_shield": "Sculk Shield",
+  "item.skulkmod.sculk_helmet":"Sculk Helmet",
+  "item.skulkmod.sculk_leggings": "Sculk Leggings",
+  "item.skulkmod.sculk_chestplate": "Sculk Chestplate",
+  "item.skulkmod.sculk_boots": "Sculk Boots",
+  "itemGroup.skulkmod": "Sculk Mod"
+}

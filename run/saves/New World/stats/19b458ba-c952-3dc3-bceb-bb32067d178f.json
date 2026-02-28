@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:anvil": 2,
+      "minecraft:echo_shard": 3
+    },
+    "minecraft:mined": {
+      "minecraft:anvil": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2032,
+      "minecraft:time_since_rest": 2115,
+      "minecraft:walk_one_cm": 3176,
+      "minecraft:total_world_time": 2934,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 4245,
+      "minecraft:crouch_one_cm": 10,
+      "minecraft:sneak_time": 4,
+      "minecraft:play_time": 2115,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 2115,
+      "minecraft:aviate_one_cm": 597
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 2,
+      "minecraft:sculk_catalyst": 4,
+      "minecraft:anvil": 2,
+      "skulkmod:sculk_hoe": 4,
+      "skulkmod:sculk_pickaxe": 2
+    }
+  },
+  "DataVersion": 4671
+}

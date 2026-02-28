@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:echo_shard"
+  ],
+  "result": {
+    "count": 1,
+    "id": "skulkmod:sculk_bread"
+  }
+}

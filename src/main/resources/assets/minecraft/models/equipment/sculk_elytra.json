@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "skulkmod:sculk_elytra",
+        "use_player_texture": true
+      }
+    ]
+  }
+}

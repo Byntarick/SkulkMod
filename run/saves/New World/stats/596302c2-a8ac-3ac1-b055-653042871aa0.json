@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 14
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 58,
+      "minecraft:time_since_rest": 2478,
+      "minecraft:walk_one_cm": 2097,
+      "minecraft:total_world_time": 3242,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 2478,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 2478
+    },
+    "minecraft:used": {
+      "minecraft:sculk": 32,
+      "skulkmod:sculk_pickaxe": 2,
+      "minecraft:cobblestone": 2
+    },
+    "minecraft:mined": {
+      "minecraft:cobblestone": 2
+    }
+  },
+  "DataVersion": 4671
+}

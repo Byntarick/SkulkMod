@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:echo_shard",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "id": "skulkmod:sculk_hoe"
+  },
+  "template": "skulkmod:sculk_template"
+}

@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "skulkmod:sculk_chestplate": 1,
+      "skulkmod:sculk_template": 113,
+      "skulkmod:sculk_helmet": 1,
+      "skulkmod:sculk_nautilus_armor": 2,
+      "skulkmod:sculk_boots": 1,
+      "skulkmod:sculk_sword": 1,
+      "skulkmod:sculk_leggings": 2,
+      "skulkmod:sculk_shovel": 1,
+      "skulkmod:sculk_horse_armor": 1,
+      "skulkmod:sculk_pickaxe": 2,
+      "skulkmod:sculk_axe": 2,
+      "skulkmod:sculk_hoe": 1
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 10,
+      "minecraft:crafting_table": 1,
+      "minecraft:obsidian": 7
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 15064,
+      "minecraft:walk_one_cm": 323,
+      "minecraft:total_world_time": 15252,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 15064,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 15064,
+      "minecraft:drop": 17
+    },
+    "minecraft:picked_up": {
+      "minecraft:echo_shard": 59,
+      "skulkmod:sculk_template": 49
+    }
+  },
+  "DataVersion": 4671
+}

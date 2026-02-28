@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 12,
+      "skulkmod:cauliflower": 7,
+      "minecraft:anvil": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2009,
+      "minecraft:time_since_rest": 2343,
+      "minecraft:fall_one_cm": 1425,
+      "minecraft:walk_one_cm": 2086,
+      "minecraft:total_world_time": 3029,
+      "minecraft:fly_one_cm": 5356,
+      "minecraft:damage_taken": 230,
+      "minecraft:play_time": 2343,
+      "minecraft:jump": 39,
+      "minecraft:time_since_death": 2343
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 145,
+      "minecraft:time_since_rest": 1812,
+      "minecraft:walk_one_cm": 1963,
+      "minecraft:total_world_time": 2026,
+      "minecraft:fly_one_cm": 201,
+      "minecraft:crouch_one_cm": 151,
+      "minecraft:sneak_time": 31,
+      "minecraft:play_time": 1812,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 1812
+    },
+    "minecraft:picked_up": {
+      "minecraft:echo_shard": 18
+    },
+    "minecraft:used": {
+      "minecraft:spruce_wood": 8,
+      "minecraft:sculk_catalyst": 1
+    }
+  },
+  "DataVersion": 4671
+}

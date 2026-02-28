@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5364,
+      "minecraft:walk_one_cm": 1896,
+      "minecraft:nautilus_one_cm": 347,
+      "minecraft:walk_under_water_one_cm": 1237,
+      "minecraft:damage_taken": 84,
+      "minecraft:play_time": 5364,
+      "minecraft:jump": 6,
+      "minecraft:time_since_death": 5364,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 739,
+      "minecraft:total_world_time": 7671,
+      "minecraft:fly_one_cm": 3023,
+      "minecraft:interact_with_anvil": 5,
+      "minecraft:walk_on_water_one_cm": 4254,
+      "minecraft:sneak_time": 52
+    },
+    "minecraft:used": {
+      "minecraft:grass_block": 5,
+      "minecraft:water_bucket": 34,
+      "minecraft:nautilus_spawn_egg": 1,
+      "minecraft:anvil": 1,
+      "minecraft:enchanting_table": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:saddle": 1
+    }
+  },
+  "DataVersion": 4671
+}

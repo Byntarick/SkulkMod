@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "skulkmod:sculk_seword": 15,
+      "minecraft:netherite_spear": 18
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 11,
+      "minecraft:feather": 7,
+      "minecraft:chicken": 5,
+      "minecraft:leather": 5,
+      "minecraft:beef": 5
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5207,
+      "minecraft:walk_one_cm": 24342,
+      "minecraft:mob_kills": 17,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 5207,
+      "minecraft:damage_dealt": 1720,
+      "minecraft:jump": 27,
+      "minecraft:time_since_death": 5207,
+      "minecraft:sprint_one_cm": 51377,
+      "minecraft:interact_with_smithing_table": 1,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 5906,
+      "minecraft:fly_one_cm": 23462
+    },
+    "minecraft:killed": {
+      "minecraft:horse": 3,
+      "minecraft:chicken": 5,
+      "minecraft:pig": 5,
+      "minecraft:cow": 4
+    }
+  },
+  "DataVersion": 4671
+}

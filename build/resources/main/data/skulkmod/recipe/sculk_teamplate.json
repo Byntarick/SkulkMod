@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#":  "minecraft:echo_shard",
+    "C": "minecraft:netherite_ingot",
+    "S": "skulkmod:sculk_template"
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "skulkmod:sculk_template"
+  }
+}

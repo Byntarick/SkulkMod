@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3162,
+      "minecraft:time_since_rest": 1147,
+      "minecraft:walk_one_cm": 688,
+      "minecraft:total_world_time": 1272,
+      "minecraft:fly_one_cm": 5205,
+      "minecraft:play_time": 1147,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 1147
+    },
+    "minecraft:used": {
+      "skulkmod:sculk_bread": 2,
+      "minecraft:bread": 1
+    }
+  },
+  "DataVersion": 4671
+}

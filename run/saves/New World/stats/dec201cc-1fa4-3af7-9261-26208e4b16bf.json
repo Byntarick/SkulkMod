@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 796,
+      "minecraft:total_world_time": 800,
+      "minecraft:leave_game": 1,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 796,
+      "minecraft:time_since_death": 796
+    },
+    "minecraft:used": {
+      "minecraft:anvil": 1,
+      "minecraft:diamond_chestplate": 1
+    }
+  },
+  "DataVersion": 4671
+}

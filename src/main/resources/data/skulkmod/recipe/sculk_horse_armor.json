@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:echo_shard",
+  "base": "minecraft:netherite_horse_armor",
+  "result": {
+    "id": "skulkmod:sculk_horse_armor"
+  },
+  "template": "skulkmod:sculk_template"
+}

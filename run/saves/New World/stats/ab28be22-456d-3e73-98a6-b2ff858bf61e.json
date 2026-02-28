@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 864,
+      "minecraft:total_world_time": 2056,
+      "minecraft:leave_game": 1,
+      "minecraft:interact_with_anvil": 2,
+      "minecraft:sneak_time": 1,
+      "minecraft:play_time": 864,
+      "minecraft:time_since_death": 864
+    },
+    "minecraft:used": {
+      "skulkmod:sculk_chestplate": 1
+    }
+  },
+  "DataVersion": 4671
+}

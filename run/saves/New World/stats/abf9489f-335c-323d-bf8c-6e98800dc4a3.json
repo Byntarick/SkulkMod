@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 389,
+      "minecraft:walk_one_cm": 106,
+      "minecraft:total_world_time": 411,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:play_time": 389,
+      "minecraft:time_since_death": 389,
+      "minecraft:drop": 7
+    },
+    "minecraft:dropped": {
+      "skulkmod:sculk_bread": 64,
+      "minecraft:coast_armor_trim_smithing_template": 64,
+      "skulkmod:sculk_chestplate": 1,
+      "minecraft:bread": 64,
+      "minecraft:enchanted_book": 1,
+      "minecraft:golden_carrot": 64,
+      "minecraft:diamond": 59
+    }
+  },
+  "DataVersion": 4671
+}

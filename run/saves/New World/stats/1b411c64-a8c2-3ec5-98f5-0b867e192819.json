@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "skulkmod:sculk_shield": 1
+    },
+    "minecraft:custom": {
+      "minecraft:damage_blocked_by_shield": 353,
+      "minecraft:sprint_one_cm": 567,
+      "minecraft:time_since_rest": 709,
+      "minecraft:walk_one_cm": 1498,
+      "minecraft:total_world_time": 904,
+      "minecraft:fly_one_cm": 1816,
+      "minecraft:play_time": 709,
+      "minecraft:damage_dealt": 10,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 709
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_smithing_table": 1,
+      "minecraft:time_since_rest": 541,
+      "minecraft:walk_one_cm": 151,
+      "minecraft:total_world_time": 541,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 541,
+      "minecraft:time_since_death": 541
+    },
+    "minecraft:picked_up": {
+      "minecraft:grass_block": 64,
+      "minecraft:diamond": 64,
+      "minecraft:iron_ingot": 64
+    }
+  },
+  "DataVersion": 4671
+}
