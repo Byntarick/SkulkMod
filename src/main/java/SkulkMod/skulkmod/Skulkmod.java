@@ -22,6 +22,6 @@ public class Skulkmod implements ModInitializer {
     public void onInitialize() {
         ModItems.registerModItems();
         ModGroups.registerItemGroups();
-        SculkRepairEvent.register();
+
     }
 }
