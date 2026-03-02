@@ -6,5 +6,6 @@ public class SkulkmodClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
+        SculkRepairEvent.register();
     }
 }
